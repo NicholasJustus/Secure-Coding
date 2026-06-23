@@ -1,12 +1,16 @@
 # Secure-Coding
 
-This repository contains major projects and assignments completed for CS 405 Secure Coding at Southern New Hampshire University.
+This repository contains projects completed for CS 405 Secure Coding at Southern New Hampshire University.
 
-The repository includes:
+Throughout this course, I explored common software vulnerabilities and the practices used to develop more secure applications. Topics covered include secure coding standards, SQL injection prevention, buffer overflow mitigation, static code analysis, unit testing, encryption, defense in depth, risk assessment, and zero trust security principles.
 
-* Project One Security Policy
-* Project Two Presentation
-* Coding assignments and source files
-* Portfolio journal reflection
+The files included in this repository demonstrate my ability to identify security vulnerabilities, apply secure coding practices, evaluate security risks, and implement solutions designed to improve software security.
 
-Throughout this course, I learned about secure coding standards, common software vulnerabilities, static code analysis, risk assessment, defense in depth, and zero trust security principles.
+Repository contents include:
+
+* Security Policy
+* Secure Coding Presentation
+* Coding Projects and Source Files
+* Portfolio Reflection
+
+This course reinforced the importance of building security into the software development process from the beginning rather than treating it as a final step before release.
